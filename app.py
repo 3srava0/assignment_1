@@ -811,10 +811,11 @@ BankSight was built to demonstrate a complete end-to-end banking analytics solut
 **Current Focus:**  
 Exploring machine learning applications in fintech and building scalable data pipelines.
 
-**GitHub:** [Your GitHub Profile]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Email:** your.email@example.com
+**GitHub:** [https://github.com/3srava0]  
+**LinkedIn:** [https://www.linkedin.com/in/sai-sravan-pokkuluri-771713115/]  
+**Email:** psvss2k@gmail.com
 
 ---
 *Built with ❤️ using Streamlit, Python, and SQLite - December 2025*
 """)
+
